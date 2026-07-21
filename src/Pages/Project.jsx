@@ -1,6 +1,6 @@
 import React from 'react'
 import { gsap } from "gsap";
-import ProjectCard from '../components/projects/projectCard'
+import ProjectCard from '../components/projects/ProjectCard'
 import { useGSAP } from '@gsap/react'
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 
